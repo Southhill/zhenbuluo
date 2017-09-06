@@ -1,0 +1,42 @@
+{
+  "name": "zhenbuluo",
+  "version": "1.0.0",
+  "description": "纯粹 美 秩序 合理",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Southhill/zhenbuluo.git"
+  },
+  "keywords": [
+    "zhen",
+    "buluo"
+  ],
+  "author": "Cao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Southhill/zhenbuluo/issues"
+  },
+  "homepage": "https://github.com/Southhill/zhenbuluo#readme",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "koa": "^2.0.0-alpha.8",
+    "koa-bodyparser": "^3.2.0",
+    "koa-router": "^7.1.1",
+    "less": "^2.7.2",
+    "pug": "^2.0.0-rc.3"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "chai": "^4.1.2",
+    "css-loader": "^0.28.7",
+    "less-loader": "^4.0.5",
+    "mocha": "^3.5.0",
+    "pug-loader": "^2.3.0",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.5.5"
+  }
+}
